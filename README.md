@@ -1,0 +1,1 @@
+Rainachain is test chain
